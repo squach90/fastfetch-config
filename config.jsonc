@@ -13,8 +13,7 @@
     {
       "type": "host",
       "key": " PC",
-      "keyColor": "green",
-      "value": "$(hostnamectl --transient --pretty 2>/dev/null || hostname)"
+      "keyColor": "green"
     },
     {
       "type": "cpu",
